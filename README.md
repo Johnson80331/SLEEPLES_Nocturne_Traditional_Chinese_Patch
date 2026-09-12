@@ -27,7 +27,7 @@
 
 ## ⬇️檔案下載
 
-[按我一鍵下載]()或手動下載[SLEEPLESS Nocturne 繁體中文補丁 1.0.0.zip](./SLEEPLESS%20Nocturne%20繁體中文補丁%201.0.0.zip)
+[按我一鍵下載](https://github.com/Johnson80331/SLEEPLES_Nocturne_Traditional_Chinese_Patch/raw/refs/heads/main/SLEEPLESS%20Nocturne%20%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E8%A3%9C%E4%B8%81%201.0.0.zip)或手動下載[SLEEPLESS Nocturne 繁體中文補丁 1.0.0.zip](./SLEEPLESS%20Nocturne%20繁體中文補丁%201.0.0.zip)
 
 ## 🖼️截圖展示
 
